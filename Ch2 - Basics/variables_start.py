@@ -46,4 +46,4 @@ def function():
 
 function()
 print(mystr)
-Test
+
